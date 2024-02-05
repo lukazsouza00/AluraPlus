@@ -151,3 +151,12 @@ body {
     color: var(--branco-principal);
     font-size: 16px;
 }
+
+.rodape__desenvolvido {
+    padding: 0.5 em;
+    background-color: var(--cinza-secundario);
+    color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+    font-size: 16px;
+}

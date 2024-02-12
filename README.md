@@ -9,9 +9,9 @@
 
 * CSS
 
-* Flex-box
+* CSS Flex-box
 
-* Grid
+* CSS Grid
 
 ## Feito por:
 
